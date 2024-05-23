@@ -81,5 +81,9 @@ document
     if (!name || !email || !phone || !message || !terms) {
       alert("Todos los campos son obligatorios.");
       event.preventDefault();
+    } else {
+      alert(
+        "Gracias por comuncarte con GP-Petstore, recibirá una respuesta a la brevedad."
+      );
     }
   });
