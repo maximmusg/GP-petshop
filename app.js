@@ -68,3 +68,18 @@ document.addEventListener("DOMContentLoaded", async () => {
     console.error("Error al cargar los detalles del producto:", error);
   }
 });
+
+document
+  .getElementById("contactForm")
+  .addEventListener("submit", function (event) {
+    var name = document.getElementById("name").value;
+    var email = document.getElementById("email").value;
+    var phone = document.getElementById("phone").value;
+    var message = document.getElementById("message").value;
+    var terms = document.getElementById("terms").checked;
+
+    if (!name || !email || !phone || !message || !terms) {
+      alert("Todos los campos son obligatorios.");
+      event.preventDefault();
+    }
+  });
