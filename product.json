@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "nombre": "Transportadora Canil Perro Gato",
+    "imagen": "img/caja.webp",
+    "precio": 75.699,
+    "alt": "Imagen del producto",
+    "genero": "Perro/Gato",
+    "descripcion": "Lleva a tu mascota de manera segura y cómoda con la Jaula Transportadora Skudo modelo 3, diseñada especialmente para perros pequeños de hasta 12 kg.",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 2,
+    "nombre": "Alimento Catpro Premium",
+    "imagen": "img/catpro.webp",
+    "precio": 35.644,
+    "alt": "Imagen del producto",
+    "genero": "Gato",
+    "descripcion": "Con esta opción de Catpro podrás cubrir las necesidades nutricionales y energéticas de tu gato y Tu mascota siempre saludable",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 3,
+    "nombre": "Comedero Regulable Altura Trixie 40cm",
+    "imagen": "img/comedorRegulable.webp",
+    "precio": 111.638,
+    "alt": "Imagen del producto",
+    "genero": "Perro",
+    "descripcion": "Ahora el sector de alimentación se verá mas ordenado y limpio con el Bebedero/Comedero Trixie regulable 40 cm 1,80 L. Tu amigo peludo tendrá su comida o bebida en un cuenco cómodo y sólo para él.",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 4,
+    "nombre": "Alimento Dogpro Dog Pro Perro adulto",
+    "imagen": "img/dogpro.webp",
+    "precio": 46.027,
+    "alt": "Imagen del producto",
+    "genero": "Perro",
+    "descripcion": "Con esta opción de Dogpro podrás cubrir las necesidades nutricionales y energéticas de tu perro y Tu mascota siempre saludable",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 5,
+    "nombre": "Fuente De Agua Para Gatos Catit 3lts",
+    "imagen": "img/fuente.webp",
+    "precio": 79.874,
+    "alt": "Imagen del producto",
+    "genero": "Gato",
+    "descripcion": "Al ser antiahogo y poseer ranuras, tu compañero de cuatro patas tendrá que averiguar cómo obtener la comida. Además, al liberar el alimento de una manera pausada, contribuye a la ingesta lenta y a evitar los ahogos.",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 6,
+    "nombre": "Golosinas Para Perros Doy Pack X 500 Gr",
+    "imagen": "img/golosina.webp",
+    "precio": 6.331,
+    "alt": "Imagen del producto",
+    "genero": "Perro",
+    "descripcion": "Deliciosos bocaditos blandos y semihúmedos con sabor a mix de frutas (manzana, frutilla, durazno). A tu amigo de 4 patas le encantara!",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 7,
+    "nombre": "Juguete Para Gatos Varita Con Soga Y Plumas",
+    "imagen": "img/palo.webp",
+    "precio": 6.571,
+    "alt": "Imagen del producto",
+    "genero": "Gato",
+    "descripcion": "El juguete perfecto para mantener a tu gato entretenido y activo. Con una longitud de 30 cm, este modelo de varita es ideal para jugar y estimular el instinto cazador de tu felino.",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 8,
+    "nombre": "Pasta Dental Perros Gatos, Sabor Pollo",
+    "imagen": "img/pastaDental.webp",
+    "precio": 5.915,
+    "alt": "Imagen del producto",
+    "genero": "Perro/Gato",
+    "descripcion": "Aliado esencial de la salud bucal de tu mascota. Específicamente diseñada para perros y gatos, esta pasta dental con sabor a pollo contribuye a mantener los dientes limpios y libres de sarro.",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 9,
+    "nombre": "Juguete Para Gatos Crazy Circle",
+    "imagen": "img/ratoncito.webp",
+    "precio": 20.386,
+    "alt": "Imagen del producto",
+    "genero": "Gato",
+    "descripcion": "Ideal para que tu gato se divierta mediante la estimulacion de sus instintos cazadores, este juguete posee un diseño interactivo con ratón escondido.",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 10,
+    "nombre": "Juguete Para Gatos Ferplast",
+    "imagen": "img/ratoncitoDos.webp",
+    "precio": 10.452,
+    "alt": "Imagen del producto",
+    "genero": "Gato",
+    "descripcion": "Este juguete para gatos está confeccionado en poliéster y cuenta con aplicaciones de plumas suaves, diseñado en forma de ratoncillo. Artículo disponible en paquetes de 2 unidades.",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 11,
+    "nombre": "Alimento Royal Canin para perro adulto de raza pequeña",
+    "imagen": "img/royal1.webp",
+    "precio": 22.991,
+    "alt": "Imagen del producto",
+    "genero": "Perro",
+    "descripcion": "Para que se mantengan sanos y fuertes, una alimentación balanceada es esencial. Brindale a tu perro los nutrientes que necesita para que pueda correr, saltar y jugar todo el día.",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  },
+  {
+    "id": 12,
+    "nombre": "Juguete Pelota Con Soga 45.7cm Perros",
+    "imagen": "img/soga.webp",
+    "precio": 4.834,
+    "alt": "Imagen del producto",
+    "genero": "Perro",
+    "descripcion": "Permite a tu perro morder, tirar y jugar con él durante horas. Su color vibrante lo hace atractivo para los perros y fácil de encontrar en cualquier lugar. Es ideal para perros de todas las edades y tamaños.",
+    "envio": "Ofrecemos envío gratis a todo Argentina en compras mayores a $50000. En compras menores a ese monto el costo del envío es $3000. En los envíos a domicilio solamente aceptamos pagos online (no contrareembolso) "
+  }
+]

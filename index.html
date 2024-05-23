@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>GP - Petstore</title>
+    <link rel="stylesheet" href="/styles/styles.css" />
+    <link rel="icon" href="/img/favicon.ico" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&display=swap" rel="stylesheet">
+  </head>
+  <body>
+    <header>
+      <nav class="header_nav">
+        <img
+          src="img/logo-removebg-preview.png"
+          alt="logo de la pagina"
+          class="logo"
+        />
+        <ul>
+          <li><a href="index.html">Inicio</a></li>
+          <li><a href="#products">Productos</a></li>
+          <li><a href="#about">Sobre Nosotros</a></li>
+          <li><a href="#contact">Contacto</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <main>
+      <!-- home -->
+      <section id="home">
+        <h1 class="title">Bienvenidos a GP petstore</h1>
+        <h2>
+          Nuestro objetivo es, y siempre será devolverle a nuestras mascotas al
+          menos una parte de todo el amor que nos dan 🐱❤️🐶
+        </h2>
+      </section>
+      <!-- products -->
+      <section id="products">
+        <h2 class="page_title">Productos</h2>
+        <h3>Aqui podras ver todos nuestros productos!</h3>
+        <div class="product_grid">
+        </div>
+      </section>
+      <!-- about -->
+      <section id="about" class="about_container">
+        <h2 class="page_title">Sobre Nosotros</h2>
+        <div class="about_info">
+          <h3>Somos GP Petstore</h3>
+          <p class="about_text">
+            Somos una tienda que nació como un proyecto personal por amor y
+            dedicación hacia nuestras mascotas y que se convirtió en una gran
+            empresa.
+          </p>
+          <p class="about_text" >
+            Nuestro criterio profesional se basa en priorizar siempre la salud
+            animal y esto nos permitió posicionarnos en el mercado veterinario,
+            obteniendo el prestigio y el respeto que hoy nos precede.
+          </p>
+        </div>
+        <section class="about_cards">
+          <div class="card">
+            <h3>ATENCIÓN PERSONALIZADA</h3>
+            <p>
+              Nos precede nuestro criterio, prestigio y respeto profesional.
+            </p>
+          </div>
+          <div class="card">
+            <h3>VARIEDAD DE PRODUCTOS</h3>
+            <p>Te aseguramos primeras marcas y artículos de calidad.</p>
+          </div>
+          <div class="card">
+            <h3>LOS MEJORES PRECIOS</h3>
+            <p>Contamos con los mejores precios competitivos del mercado.</p>
+          </div>
+        </section>
+      </section>
+      <!-- contact -->
+      <section id="contact">
+        <h2 class="page_title">Contacto</h2>
+        <h3>
+          Desde aquí puedes comunicarte con nosotros, Dejanos tu consulta!
+        </h3>
+        <form id="contactForm" class="contact">
+          <label for="name">Nombre:</label>
+          <input type="text" id="name" name="name" required />
+
+          <label for="email">Email:</label>
+          <input type="email" id="email" name="email" required />
+
+          <label for="phone">Teléfono:</label>
+          <input type="tel" id="phone" name="phone" required />
+
+          <label for="message">Mensaje:</label>
+          <textarea id="message" name="message" required></textarea>
+          <div class="check">
+            <input type="checkbox" id="terms" name="terms" required />
+            <label for="terms"> Acepto los términos y condiciones </label>
+          </div>
+
+          <button type="submit">Enviar</button>
+        </form>
+      </section>
+    </main>
+
+    <footer>
+      <div class="footer_container">
+        <p>GP PETSTORE&copy; 2024 Todos los derechos reservados.</p>
+        <p>Gomez Maximiliano <Embed></Embed>ezequiel</p>
+      </div>
+    </footer>
+    <script src="app.js"></script>
+  </body>
+</html>
