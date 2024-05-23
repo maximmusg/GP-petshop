@@ -139,6 +139,24 @@ section {
   background: #8502a6;
 }
 
+.btn_detail {
+  text-decoration: none;
+  background-color: white;
+  color: #d769f2;
+  border: 2px solid #8502a6;
+  font-size: 1rem;
+  font-weight: bold;
+  margin: 1rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  cursor: pointer;
+}
+
+.btn_detail:hover {
+  background: #8502a6;
+  color: white;
+}
+
 /* about styles */
 .about_container {
   width: 80%;

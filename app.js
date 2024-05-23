@@ -16,9 +16,9 @@ document.addEventListener("DOMContentLoaded", async () => {
       <img src="${product.imagen}" alt="${product.alt}" />
       <p>${product.descripcion}</p>
       <h2>$${product.precio}</h2>
-      <button class="btn">Comprar</button>
+      <button class="btn">Agregar al carrito</button>
       <a class=" btn_detail" href="product.html?id=${product.id}">
-      Ver Detalles
+      Ver producto
       </a>
       `;
 
